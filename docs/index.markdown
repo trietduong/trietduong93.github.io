@@ -4,6 +4,3 @@
 
 layout: home
 ---
-<head>
-  <title>Hello</title>
-  </head>
