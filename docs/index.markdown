@@ -5,5 +5,5 @@
 layout: home
 ---
 <head>
-  <title>Hellp</title>
+  <title>Hello</title>
   </head>
