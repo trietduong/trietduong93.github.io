@@ -5,8 +5,7 @@
 layout: home
 title: Home
 ---
-<head>
-  <title>Homepage</title>
-</head>
+
+<title>Homepage</title>
 
 {{Hello}}
