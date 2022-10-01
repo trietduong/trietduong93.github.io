@@ -31,7 +31,6 @@ layout: default
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.content | truncatewords: 50 }}
-          <br>
           <a class="excerpt-post-link" href="{{ post.url | relative_url }}">Continue reading →</a>
         {%- endif -%}
       </li>
