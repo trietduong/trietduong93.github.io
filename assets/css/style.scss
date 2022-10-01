@@ -1,7 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+$content-width: 100%;
+
+@import "minima";
 
 header {
   display: none;
