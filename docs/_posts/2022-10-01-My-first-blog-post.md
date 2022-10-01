@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New year's Eve is awesome"
+title:  "My first blog post"
 ---
 
 Welcome
