@@ -59,7 +59,7 @@
 title: "Blog Title"
 author: "Blog Author"
 description: "My personal blog about ... something"
-permalink: index.html
+permalink: https://trietduong93.github.io/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
