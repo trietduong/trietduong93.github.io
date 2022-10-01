@@ -3,9 +3,6 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
 
   {{ content }}
 
@@ -32,7 +29,7 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {{ post.content | strip_html | truncatewords: 50 }}
           <a class="excerpt-post-link" href="{{ post.url | relative_url }}">Continue reading →</a>
         {%- endif -%}
       </li>
