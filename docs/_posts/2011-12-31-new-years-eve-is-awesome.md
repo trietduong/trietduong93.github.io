@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "New year's Eve is awesome"
 ---
 
-# Welcome
+## Welcome
 
 **Hello world**, this is my first Jekyll blog post.
 
