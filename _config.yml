@@ -2,7 +2,7 @@ remote_theme: niklasbuschmann/contrast@v2.11
 title: "Blog Title"
 author: "Blog Author"
 description: "My personal blog about ... something"
-permalink: trietduong.github.io/trietduong93
+permalink: trietduong93/trietduong.github.io
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
