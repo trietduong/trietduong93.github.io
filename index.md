@@ -6,6 +6,4 @@ layout: home
 title: Home
 ---
 
-<title>Homepage</title>
-
 {{Hello}}
