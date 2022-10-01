@@ -5,4 +5,4 @@
 layout: home
 title: Home
 ---
-Hello
+{{Hello}}
